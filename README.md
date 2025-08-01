@@ -1,6 +1,6 @@
 ##Hi, I am Deepak Sain
 I am a Artifical Intellegence & Data Science (AI&DS) Student.
-I am confortable in Python programing language and SQL Query language.
+I am comfortable in Python programing language and SQL Query language.
 I am also interested in Content Writing.
 My hobbies are :- Listening music and Playing Chess .
 My Linkedin Id:-https://www.linkedin.com/in/deepak-sain-a53a8828b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
